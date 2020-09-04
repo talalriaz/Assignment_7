@@ -1,1 +1,1 @@
-file4 is added in the second branch
+file4 is added in the master branch
