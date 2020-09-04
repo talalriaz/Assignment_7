@@ -1,1 +1,3 @@
-this file is made and then committed in second branch
+this file is made and then committed in second branch.
+
+this line is added in second branch
