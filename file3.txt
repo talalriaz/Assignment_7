@@ -1,3 +1,5 @@
 this is file 3 in master branch.
 
 i have added this line in second branch
+
+i have added another line in second branch and going to commit it here.
