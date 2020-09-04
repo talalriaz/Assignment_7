@@ -1,1 +1,3 @@
 this file is made and then committed in second branch
+
+i am adding this line in master and not commiting it
