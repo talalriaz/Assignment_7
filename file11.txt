@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 file11 made in second
 
 line added in second
+=======
+
+this file is made in master
+
+file11 made in second
+
+>>>>>>> 845518e468afe003f24b46e51b8c39de45eba4b6
