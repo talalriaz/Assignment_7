@@ -1,0 +1,3 @@
+this file is added in second but not committed.
+
+this line is added in master
